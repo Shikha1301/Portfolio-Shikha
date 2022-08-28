@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Shikha/static/css/main.5aed0c67.css",
+    "main.js": "/Portfolio-Shikha/static/js/main.649a5d70.js",
+    "static/media/Shikha_1.png": "/Portfolio-Shikha/static/media/Shikha_1.5892b058e25010c635d7.png",
+    "static/media/Shikha_4.jpg": "/Portfolio-Shikha/static/media/Shikha_4.71321dd911f9f5589c2a.jpg",
+    "static/media/portfolio1.jpg": "/Portfolio-Shikha/static/media/portfolio1.f278ce3c04bf7835b661.jpg",
+    "static/media/Shikha_B19057.pdf": "/Portfolio-Shikha/static/media/Shikha_B19057.f3f10f2ce920f1807f83.pdf",
+    "static/media/portfolio2.png": "/Portfolio-Shikha/static/media/portfolio2.3ff7de6cfdc211b6e578.png",
+    "static/media/portfolio3.png": "/Portfolio-Shikha/static/media/portfolio3.346002320a0657bfe4f4.png",
+    "index.html": "/Portfolio-Shikha/index.html",
+    "main.5aed0c67.css.map": "/Portfolio-Shikha/static/css/main.5aed0c67.css.map",
+    "main.649a5d70.js.map": "/Portfolio-Shikha/static/js/main.649a5d70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5aed0c67.css",
+    "static/js/main.649a5d70.js"
+  ]
+}
